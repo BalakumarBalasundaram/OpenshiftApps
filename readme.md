@@ -6,6 +6,7 @@ https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.5/html/g
 
 https://access.redhat.com/documentation/en-us/red_hat_openshift_local/2.5/html/getting_started_guide/using_gsg
 
+# web Console
 The server is accessible via web console at:
   https://console-openshift-console.apps-crc.testing
 
